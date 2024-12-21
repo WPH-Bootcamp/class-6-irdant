@@ -2,3 +2,93 @@ $white: #fff;
 $black: #000;
 
 // add the $colors map here (2 dimensional map)
+// colors.scss
+
+// colors.scss
+
+$colors: (
+  '25': (
+    'brand': #fcfaff,
+    'warning': #fffcf5,
+    'success': #f6fef9,
+    'error': #fffbfa,
+    'gray': #fcfcfd,
+  ),
+  '50': (
+    'brand': #f9f5ff,
+    'warning': #fffaeb,
+    'success': #ecfdf3,
+    'error': #fef3f2,
+    'gray': #f9fafb,
+  ),
+  '100': (
+    'brand': #f4ebff,
+    'warning': #fef0c7,
+    'success': #dcfae6,
+    'error': #fee4e2,
+    'gray': #f2f4f7,
+  ),
+  '200': (
+    'brand': #e9d7fe,
+    'warning': #fedf89,
+    'success': #abefc6,
+    'error': #fecdca,
+    'gray': #e4e7ec,
+  ),
+  '300': (
+    'brand': #d6bbfb,
+    'warning': #fec84b,
+    'success': #75e0a7,
+    'error': #fda29b,
+    'gray': #d0d5dd,
+  ),
+  '400': (
+    'brand': #b692f6,
+    'warning': #fdb022,
+    'success': #47cd89,
+    'error': #f97066,
+    'gray': #98a2b3,
+  ),
+  '500': (
+    'brand': #9e77ed,
+    'warning': #f79009,
+    'success': #17b26a,
+    'error': #f04438,
+    'gray': #667085,
+  ),
+  '600': (
+    'brand': #7f56d9,
+    'warning': #dc6803,
+    'success': #079455,
+    'error': #d92d20,
+    'gray': #475467,
+  ),
+  '700': (
+    'brand': #6941c6,
+    'warning': #b54708,
+    'success': #067647,
+    'error': #b42318,
+    'gray': #344054,
+  ),
+  '800': (
+    'brand': #53389e,
+    'warning': #93370d,
+    'success': #085d3a,
+    'error': #912018,
+    'gray': #182230,
+  ),
+  '900': (
+    'brand': #42307d,
+    'warning': #7a2e0e,
+    'success': #074d31,
+    'error': #7a271a,
+    'gray': #101828,
+  ),
+  '950': (
+    'brand': #2c1c5f,
+    'warning': #4e1d09,
+    'success': #053321,
+    'error': #55160c,
+    'gray': #0c111d,
+  ),
+);
